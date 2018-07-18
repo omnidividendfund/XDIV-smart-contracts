@@ -1,5 +1,5 @@
 # The Omni Dividend Fund (XDIV)
-The Omni Dividend fund is an investment fund that seeks to build the most secure and easy-to-invest product by providing income each month from cryptocurrency investments and trading various market assets. The fund seeks to maximize portability and anonymity via our private blockchain token, XDIV.
+The Omni Dividend Fund is an investment fund that seeks to build the most secure and easy-to-invest product by providing income each month from cryptocurrency investments and trading various market assets. The fund seeks to maximize portability and anonymity via our private blockchain token, XDIV.
 
 The smart contracts that back XDIV all expose different features.  Core functionality is deployed at the start of XDIV's lifecycle, with thought given to adding additional contracts to extend functionality moving forward.
 
